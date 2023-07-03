@@ -122,6 +122,8 @@ Character Set -> Use Unicode. Thanks! For now, I'll try enabling it for you - Ja
 #include <thread>
 #include <atomic>
 #include <condition_variable>
+#include<math.h>
+#include<cstring>
 using namespace std;
 
 
