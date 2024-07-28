@@ -107,8 +107,7 @@ http://www.twitch.tv/javidx9
 #pragma once
 
 #ifndef UNICODE
-#error Please enable UNICODE for your compiler! VS: Project Properties -> General -> \
-Character Set -> Use Unicode. Thanks! For now, I'll try enabling it for you - Javidx9
+#error Please enable UNICODE for your compiler! VS: Project Properties -> General -> Character Set -> Use Unicode. Thanks! For now, Ill try enabling it for you - Javidx9
 #define UNICODE
 #define _UNICODE
 #endif
